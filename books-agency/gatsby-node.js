@@ -1,4 +1,3 @@
-const { graphql } = require("gatsby")
 const { createRemoteFileNode } = require(`gatsby-source-filesystem`)
 const path = require("path")
 

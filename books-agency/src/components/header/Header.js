@@ -4,7 +4,7 @@ import PropTypes from "prop-types"
 import Menu from "./Menu"
 import { HeaderWrapper, Image } from "./headerStyles/headerStyles"
 
-const Header = ({ siteTitle }) => {
+const Header = () => {
   const {
     logo,
     wpcontent: { menuItems },
